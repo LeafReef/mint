@@ -1,3 +1,2 @@
 # Mint
-
-LeafReef web client
+Web client
