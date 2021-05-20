@@ -10,4 +10,4 @@ async function fetchSensorData() {
 }
 
 fetchSensorData();
-setInterval(fetchSensorData, 1000);
+setInterval(fetchSensorData, 5000);
